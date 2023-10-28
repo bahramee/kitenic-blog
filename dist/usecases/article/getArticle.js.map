@@ -1,0 +1,1 @@
+{"version":3,"file":"getArticle.js","sourceRoot":"","sources":["../../../src/usecases/article/getArticle.ts"],"names":[],"mappings":";;;AAGA,MAAa,kBAAkB;IAC7B,YAA6B,iBAAoC;QAApC,sBAAiB,GAAjB,iBAAiB,CAAmB;IAAG,CAAC;IAErE,KAAK,CAAC,OAAO,CAAC,EAAU;QACtB,OAAO,MAAM,IAAI,CAAC,iBAAiB,CAAC,QAAQ,CAAC,EAAE,CAAC,CAAC;IACnD,CAAC;CACF;AAND,gDAMC"}
